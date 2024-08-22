@@ -12,13 +12,13 @@ The front end of StudyNotion has all the necessary pages that an ed-tech platfor
 
 # For Students:
 
-Homepage 🏠: A brief introduction to the platform with links to the course list and user details and random background.
-Course List 📚: A list of all the courses available on the platform, along with their descriptions and ratings.
-Wishlist 💡: Displays all the courses that a student has added to their wishlist.
-Cart Checkout 🛒 : Allows the user to complete course purchases.
-Course Content 🎓: Presents the course content for a particular course, including videos and related material.
-User Details 👤: Provides details about the student's account, including their name, email, and other relevant information.
-User Edit Details ✏️: Allows students to edit their account details.
+- Homepage 🏠: A brief introduction to the platform with links to the course list and user details and random background.
+- Course List 📚: A list of all the courses available on the platform, along with their descriptions and ratings.
+- Wishlist 💡: Displays all the courses that a student has added to their wishlist.
+- Cart Checkout 🛒 : Allows the user to complete course purchases.
+- Course Content 🎓: Presents the course content for a particular course, including videos and related material.
+- User Details 👤: Provides details about the student's account, including their name, email, and other relevant information.
+- User Edit Details ✏️: Allows students to edit their account details.
 
 # For Instructors:
 
