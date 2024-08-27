@@ -28,9 +28,8 @@ app.use(cookieParser());
 app.use(
 	cors({
 		origin: "*",
-		credentials: true,
-	})
-);
+	credentials: true
+  }));
 app.use(
 	fileUpload({
 		useTempFiles: true,
